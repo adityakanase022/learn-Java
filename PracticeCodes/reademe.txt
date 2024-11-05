@@ -1,1 +1,66 @@
-
+link :https://www.geeksforgeeks.org/java-programming-examples/#java-basic-programs
+Java Program to Multiply Two Floating-Point Numbers
+Java Program to Swap Two Numbers
+Java Program to Add Two Binary Strings
+Java Program to Add Two Complex Numbers
+Java Program to Check Even or Odd Integers
+Java Program to Find Largest Among 3 Numbers
+Java Program to Find LCM of 2 numbers
+Java Program to Find GCD or HCF of 2 numbers
+Java Program to Display All Prime Numbers from 1 to N
+Java Program to Check Leap Year
+Java Program to Check Armstrong Number between Two Integers
+Java Program to Check whether the input number is a Neon Number
+Java Program to Check whether input character is vowel or consonant
+Java Program to Find Factorial of a number
+Java Program to Find Even Sum of Fibonacci Series Till number N
+Java Program to Calculate Simple Interest
+Java Program to Calculate Compound Interest
+Java Program to Find the Perimeter of a Rectangle
+---------------------------------------------------------------------------------
+Java Program For Binary to Octal Conversion
+Java Program For Octal to Decimal Conversion
+Java Program For Decimal to Octal Conversion
+Java Program For Hexadecimal to Decimal Conversion
+Java Program For Decimal to Hexadecimal Conversion
+Java Program For Decimal to Binary Conversion
+Java Program For Binary to Decimal Conversion
+Java Program For Boolean to String Conversion
+Java Program For String to Double Conversion
+Java Program For Double to String Conversion
+Java Program For String to Long Conversion
+Java Program For Long to String Conversion
+Java Program For Int to Char Conversion
+Java Program For Char to Int Conversion
+-----------------------------------------------------------------------------------
+Java Program to Create a Class and Object
+Java Program to Create Abstract Class
+Java Program to Create Singleton Class
+Java Program to Create an Interface
+Java Program to Show Encapsulation in Class
+Java Program to Show Inheritance in Class
+Java Program to Show Abstraction in Class
+Java Program to Show Data Hiding in Class
+Java Program to Show Polymorphism in Class
+Java Program to Show Overloading of Methods in Class
+Java Program to Show Overriding of Methods in Classes
+Java Program to Show Use of Super Keyword in Class
+Java Program to Show Use of This Keyword in Class
+Java Program to Show Usage of Static keyword in Class
+Java Program to Show Usage of Access Modifier
+---------------------------------------------------------------------------------
+Java Program to Get a Character From the Given String
+Java Program to Replace a Character at a Specific Index
+Java Program to Reverse a String
+Java Program to Reverse a String Using Stacks
+Java Program to Sort a String
+Java Program to Swapping Pair of Characters
+Java Program to Check Whether the Given String is Pangram
+Java Program to Print first letter of each word using regex
+Java Program to Determine the Unicode Code Point at a given index
+Java Program to Remove leading zeros
+Java Program to Compare two strings
+Java Program to Compare two strings lexicographically
+Java Program to Print even length words
+Java Program to Insert a string into another string
+Java Program to Splitting into a number of sub-strings
